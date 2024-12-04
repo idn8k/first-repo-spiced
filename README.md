@@ -25,6 +25,11 @@ First repo
 
 We add a `line` of code
 
+### Code block
+```
+let cohort = "Boldo";
+```
+
 
 
 
