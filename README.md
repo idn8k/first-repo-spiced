@@ -26,7 +26,7 @@ First repo
 We add a `line` of code
 
 ### Code block
-```
+```js
 let cohort = "Boldo";
 ```
 
