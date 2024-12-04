@@ -18,7 +18,7 @@ First repo
 
 ## Adding img
 
-![Cat]([image.jpg](https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg)
+![Cat](https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg)
 
 
 
